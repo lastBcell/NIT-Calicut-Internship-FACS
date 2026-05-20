@@ -1,0 +1,51 @@
+# FACS Tools & Libraries
+
+| Tool | Purpose | Main Features |
+|---|---|---|
+| OpenFace | Facial behavior analysis toolkit | AU detection, gaze tracking, landmark detection, head pose estimation |
+| NetFACS | FACS network analysis | Studies relationships between Action Units using graph/network analysis |
+| PyAFAR | Python AU recognition library | Automated AU detection for adults and infants |
+| OpenFace-FACS-Unity-Facial-Animator | Real-time avatar animation | Streams AU values from OpenFace into Unity |
+| openFACS | 3D facial animation system | Generates realistic facial animation using FACS |
+| pyfaceau | Pure Python OpenFace implementation | AU extraction without C++ compilation |
+| LibreFace | Deep learning facial analysis toolkit | AU detection, AU intensity estimation, FER |
+| OpenFaceR | R analysis toolkit for OpenFace outputs | Statistical analysis of AU CSV outputs |
+| exploface | OpenFace output analysis | Visualization and analysis of OpenFace CSV outputs |
+
+---
+
+# GitHub Repositories + Description
+
+| Repository | GitHub Link | Description |
+|---|---|---|
+| OpenFace | https://github.com/TadasBaltrusaitis/OpenFace | State-of-the-art facial behavior analysis toolkit |
+| OpenFace AU Wiki | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Action-Units | Official AU extraction documentation |
+| pyfaceau | https://github.com/johnwilsoniv/pyfaceau | Python-only OpenFace AU implementation |
+| LibreFace | https://github.com/ihp-lab/LibreFace | Deep-learning-based facial analysis toolkit |
+| NetFACS | https://github.com/NetFACS/NetFACS | AU co-occurrence and network analysis |
+| OpenFaceR | https://github.com/davidecannatanuig/openFaceR | R package for OpenFace output analysis |
+| exploface | https://github.com/bldevries/exploface | OpenFace AU visualization toolkit |
+| OpenFace Unity Animator | https://github.com/alexismorin/OpenFace-FACS-Unity-Facial-Animator | Real-time Unity facial animation |
+| openFACS | https://github.com/phuselab/openFACS | FACS-based 3D facial animation |
+| face-datasets | https://github.com/blancaag/face-datasets | Curated facial expression datasets |
+| AWESOME-FER | https://github.com/EvelynFan/AWESOME-FER | FER and AU resource collection |
+| Face-Tells Dataset | https://github.com/joannahong/Face-Tells-Detailed-Expression-Dataset | Detailed textual facial expression dataset |
+
+---
+
+# FACS Datasets
+
+| Dataset | Link | Description |
+|---|---|---|
+| BP4D | https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html | Spontaneous facial expressions with AU annotations and 3D data |
+| CK+ | https://www.jeffcohn.net/resources/ | Classic facial expression + AU dataset |
+| DISFA | https://www.engr.du.edu/mmahoor/DISFA.htm | Spontaneous AU dataset with intensity labels |
+| MMI | https://mmifacedb.eu/ | Multi-view facial expression videos |
+| FER-2013 | https://www.kaggle.com/datasets/msambare/fer2013 | Large-scale emotion recognition dataset |
+| AffectNet | http://mohammadmahoor.com/affectnet/ | In-the-wild facial affect dataset |
+| RAF-DB | http://www.whdeng.cn/RAF/model1.html | Real-world facial expression dataset |
+| Bosphorus | https://bosphorus.ee.boun.edu.tr/ | 3D facial expression dataset |
+| SEMAINE | https://semaine-db.eu/ | Conversational emotion dataset |
+| UNBC-McMaster | https://www.pitt.edu/~emotion/um-spread.htm | Pain expression FACS dataset |
+
+---

@@ -1,0 +1,159 @@
+# Additional FACS / AU Tools
+
+| Tool | Purpose | Description |
+|---|---|---|
+| Py-Feat | Facial expression analysis | Python toolkit for AU, emotion, landmarks, and gaze |
+| FeatLab | AU analysis platform | GUI-based facial analysis workflow |
+| DeepFace | Deep facial analysis | Emotion, age, gender, verification |
+| InsightFace | Face recognition framework | Powerful face embeddings and alignment |
+| MediaPipe Face Mesh | Landmark tracking | Real-time 468 facial landmarks |
+| FaceAlignment | Landmark estimation | 2D/3D facial landmark detection |
+| EMOCA | Emotional 3D face reconstruction | Generates expressive 3D faces |
+| DECA | Detailed face reconstruction | Captures wrinkles and detailed expressions |
+| OpenSeeFace | Real-time face tracking | VTuber and avatar facial tracking |
+| FaceFormer | Audio-driven face animation | Speech-to-face animation transformer |
+
+---
+
+# Additional AU / Emotion Datasets
+
+| Dataset | Description |
+|---|---|
+| EmotioNet | Massive AU dataset with millions of images |
+| Aff-Wild2 | Video-based affect and AU benchmark |
+| AFEW-VA | Valence-arousal facial dataset |
+| AFEW | Facial expressions in movies |
+| Oulu-CASIA | Expression dataset under varying lighting |
+| JAFFE | Japanese female facial expressions |
+| AffectFaceDB | Affective face datasets collection |
+| CASME II | Micro-expression dataset |
+| SAMM | Spontaneous micro-expression dataset |
+| SMIC | High-speed micro-expression videos |
+
+---
+
+# Deep Learning AU Repositories
+
+| Repository | Purpose |
+|---|---|
+| OpenGraphAU | Graph neural network AU recognition |
+| ME-GraphAU | Multi-scale AU graph learning |
+| AU-RCNN | Region-based CNN for AU detection |
+| JAA-Net | Joint AU detection and alignment |
+| DRML | Deep region learning for AU detection |
+| FaceBehaviorNet | Multi-task facial behavior analysis |
+
+---
+
+# Medical / Healthcare Related Facial Analysis
+
+| Area | Usage |
+|---|---|
+| Parkinson’s Disease | Facial rigidity detection |
+| Depression Detection | Reduced facial expressiveness |
+| Autism Research | Social expression analysis |
+| Pain Detection | AU-based pain estimation |
+| Stroke Analysis | Facial asymmetry detection |
+| Schizophrenia Research | Emotion-response analysis |
+
+---
+
+# Pain Detection Datasets
+
+| Dataset | Purpose |
+|---|---|
+| UNBC-McMaster | Pain intensity estimation |
+| BioVid Heat Pain Database | Pain and physiological response |
+| SenseEmotion | Multimodal pain/emotion dataset |
+
+---
+
+# Micro-Expression Research
+
+| Concept | Description |
+|---|---|
+| Micro-Expressions | Very tiny unconscious facial expressions lasting less than 0.5 seconds |
+| Applications | Lie detection, stress analysis, psychological studies, behavioral analysis |
+
+---
+
+# Most Important Modern Research Directions
+
+| Area | Description |
+|---|---|
+| Vision Transformers | Temporal facial understanding |
+| Graph Neural Networks | AU relationship modeling |
+| Multimodal Emotion AI | Face + voice + body |
+| 3D Facial Modeling | Geometry-aware AU detection |
+| Self-Supervised Learning | AU learning without labels |
+| Diffusion Models | Realistic facial synthesis |
+
+---
+
+# Best Practical Stack in 2026
+
+| Task | Recommended Tool |
+|---|---|
+| Landmark Detection | MediaPipe Face Mesh |
+| AU Extraction | OpenFace / Py-Feat |
+| Emotion Recognition | DeepFace |
+| Real-time Tracking | OpenSeeFace |
+| 3D Face Modeling | DECA / EMOCA |
+| Research Training | PyTorch |
+| Dataset | DISFA / Aff-Wild2 |
+
+---
+
+# Recommended Repositories for Advanced Learning
+
+| Repository | Why Important |
+|---|---|
+| OpenFace | Industry-standard AU extraction |
+| Py-Feat | Modern Python facial analysis toolkit |
+| MediaPipe | Real-time face landmark system |
+| DECA | Detailed facial geometry reconstruction |
+| OpenGraphAU | Modern graph-based AU detection |
+| Aff-Wild2 | Large-scale video AU benchmark |
+| DISFA | AU intensity learning dataset |
+
+---
+
+# Additional GitHub Links
+
+| Repository | Link |
+|---|---|
+| Py-Feat | https://github.com/cosanlab/py-feat |
+| FeatLab | https://github.com/cosanlab/featlab |
+| DeepFace | https://github.com/serengil/deepface |
+| InsightFace | https://github.com/deepinsight/insightface |
+| MediaPipe | https://github.com/google-ai-edge/mediapipe |
+| FaceAlignment | https://github.com/1adrianb/face-alignment |
+| EMOCA | https://github.com/radekd91/emoca |
+| DECA | https://github.com/yfeng95/DECA |
+| OpenSeeFace | https://github.com/emilianavt/OpenSeeFace |
+| FaceFormer | https://github.com/EvelynFan/FaceFormer |
+| OpenGraphAU | https://github.com/lingjivoo/OpenGraphAU |
+| ME-GraphAU | https://github.com/CVI-SZU/ME-GraphAU |
+| AU-RCNN | https://github.com/aawgit/AU_R-CNN |
+| JAA-Net | https://github.com/yaoing/JAA-Net |
+| DRML | https://github.com/IcedDoggie/DRML |
+| FaceBehaviorNet | https://github.com/face-analysis/FaceBehaviorNet |
+
+---
+
+# Additional Dataset Links
+
+| Dataset | Link |
+|---|---|
+| EmotioNet | https://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/ |
+| Aff-Wild2 | https://ibug.doc.ic.ac.uk/resources/aff-wild2/ |
+| AFEW-VA | https://ibug.doc.ic.ac.uk/resources/afew-va-database/ |
+| AFEW | https://cs.anu.edu.au/few/AFEW.html |
+| Oulu-CASIA | https://www.oulu.fi/en/projects/oulu-casia-facial-expression-database |
+| JAFFE | https://zenodo.org/record/3451524 |
+| AffectFaceDB | https://affectivedatascience.com/datasets |
+| CASME II | http://fu.psych.ac.cn/CASME/casme2-en.php |
+| SAMM | https://www.samm-dataset.com/ |
+| SMIC | https://www.cse.oulu.fi/CMV/Downloads/SMIC |
+| BioVid | https://www.iikt.ovgu.de/BioVid.html |
+| SenseEmotion | https://zenodo.org/record/2535873 |
