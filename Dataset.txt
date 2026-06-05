@@ -22,3 +22,7 @@
 | 19 | UNBC-McMaster | Medical FACS | https://www.pitt.edu/~emotion/um-spread.htm |
 | 20 | BioVid | Pain + Physiology | https://www.iikt.ovgu.de/BioVid.html |
 | 21 | SenseEmotion | Multimodal Emotion AI | https://zenodo.org/record/2535873 |
+
+| 22 | 300-W | Face Landmark Detection | https://www.kaggle.com/datasets/toxicloser/ibug-300w-large-face-landmark-dataset |
+| 23 | 300-LP | Face Landmark Detection | https://www.tensorflow.org/datasets/catalog/the300w_lp |
+| 24 | face-datasets | Curated Dataset List | https://github.com/blancaag/face-datasets |
