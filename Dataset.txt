@@ -26,3 +26,4 @@
 | 22 | 300-W | Face Landmark Detection | https://www.kaggle.com/datasets/toxicloser/ibug-300w-large-face-landmark-dataset |
 | 23 | 300-LP | Face Landmark Detection | https://www.tensorflow.org/datasets/catalog/the300w_lp |
 | 24 | face-datasets | Curated Dataset List | https://github.com/blancaag/face-datasets |
+| 25 | 300-W | https://ibug.doc.ic.ac.uk/resources/300-W/|
