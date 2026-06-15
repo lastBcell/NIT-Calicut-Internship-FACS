@@ -1,0 +1,71 @@
+# Public Sources for Facial Action Unit (AU) / FACS Datasets
+
+  -------------------------------------------------------------------------------------------------------------------------------
+  Name                           Category            Priority   Description                               Link
+  ------------------------------ ------------------- ---------- ----------------------------------------- -----------------------
+  Aff-Wild2                      AU-Labeled Dataset  Medium     In-the-wild AU annotations                Imperial College London
+                                                                                                         
+  BP4D                           AU-Labeled Dataset  High       Frame-level Action Unit labels            Binghamton University
+                                                                                                         
+  BP4D+                          AU-Labeled Dataset  High       AU labels with multimodal                 
+                                                                 physiological signals                     
+                                                                                                         
+  CK+                            AU-Labeled Dataset  Standard   Standard benchmark for AU and facial      University of Pittsburgh
+                                                                 expression recognition                   
+                                                                                                         
+  DISFA                          AU-Labeled Dataset  High       AU intensity annotations (0-5)            Colorado State University
+                                                                                                         
+  EmotioNet                      AU-Labeled Dataset  Medium     Large-scale AU-labeled image dataset      The Ohio State University
+                                                                                                         
+  General                        Search Keyword      --         FACS dataset, Action Unit dataset, AU     
+                                                                 labeled dataset                           
+                                                                                                         
+  GitHub                         Data Repository     --         AU labels, processed datasets, OpenFace   https://github.com
+                                                                 projects                                 
+                                                                                                         
+  Google Dataset Search          Data Repository     --         Searches datasets across universities     https://datasetsearch.research.google.com
+                                                                 and repositories                         
+                                                                                                         
+  Hugging Face Datasets          Data Repository     --         Deep learning datasets, medical AI, face  https://huggingface.co/datasets
+                                                                 datasets                                 
+                                                                                                         
+  IEEE DataPort                  Data Repository     --         Medical, engineering, and research        https://ieee-dataport.org
+                                                                 datasets                                 
+                                                                                                         
+  Kaggle Datasets                Data Repository     --         OpenFace outputs, AU CSVs, emotion        https://www.kaggle.com/datasets
+                                                                 datasets, student projects               
+                                                                                                         
+  Medical                        Search Keyword      --         Pain facial dataset, Medical facial       
+                                                                 expression dataset                       
+                                                                                                         
+  Mendeley Data                  Data Repository     --         Supplementary datasets from research       https://data.mendeley.com
+                                                                 publications                             
+                                                                                                         
+  NIAID Data Discovery Portal    Medical Repository  --         Biomedical and clinical datasets          https://data.niaid.nih.gov
+                                                                                                         
+  NIH Data Sharing Repositories  Medical Repository  --         Biomedical research datasets              https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data
+                                                                                                         
+  OpenFace                       Search Keyword      --         OpenFace AU dataset, Frame-level AU       
+                                                                 labels                                   
+                                                                                                         
+  OpenML                         Data Repository     --         Machine learning datasets and experiments  https://www.openml.org
+                                                                                                         
+  OpenNeuro                      Medical Repository  --         Neuroscience and behavioral datasets       https://openneuro.org
+                                                                                                         
+  Papers With Code               Data Repository     --         Datasets linked to research papers and    https://paperswithcode.com/datasets
+                                                                 code                                     
+                                                                                                         
+  PhysioNet                      Medical Repository  --         Clinical and physiological datasets        https://physionet.org
+                                                                                                         
+  Research                       Search Keyword      --         AU intensity dataset, Clinical facial     
+                                                                 expression dataset                       
+                                                                                                         
+  UCI Machine Learning           Data Repository     --         Classic machine learning benchmark         https://archive.ics.uci.edu
+  Repository                                                     datasets                                 
+                                                                                                         
+  UNBC-McMaster                  AU-Labeled Dataset  Medium     Clinical pain dataset with expert FACS    
+                                                                 coding                                   
+                                                                                                         
+  Zenodo                         Data Repository     --         Research datasets, JAFFE, RAVDESS,         https://zenodo.org
+                                                                 OpenFace outputs                         
+  -------------------------------------------------------------------------------------------------------------------------------
