@@ -1,36 +1,36 @@
 # Master FACS / AU / FER Dataset Comparison Table
 
-| Rank | Dataset | Category | Description | Link |
-|---|---|---|---|---|
-| 1 | BP4D | AU Detection | Spontaneous 3D facial expressions with frame-level AU annotations | https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html |
-| 2 | DISFA | AU Intensity | Spontaneous AU dataset with intensity annotations (0-5 scale) | https://www.engr.du.edu/mmahoor/DISFA.htm |
-| 3 | Aff-Wild2 | Real-world AU + Emotion | In-the-wild video dataset with AU and emotion annotations | https://ibug.doc.ic.ac.uk/resources/aff-wild2/ |
-| 4 | AffectNet | Emotion Recognition | Large-scale facial affect dataset with 8 emotion categories | http://mohammadmahoor.com/affectnet/ |
-| 5 | CK+ | FER + AU | Extended Cohn-Kanade benchmark for FER and AU detection | https://www.jeffcohn.net/resources/ |
-| 6 | EmotioNet | Large-scale AU Detection | Million-scale database with automated AU annotations | https://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/ |
-| 7 | RAF-DB | Real-world FER | Real-world affective faces with crowd-sourced labels | http://www.whdeng.cn/RAF/model1.html |
-| 8 | FER2013 | CNN FER | Large-scale emotion recognition challenge dataset (Kaggle) | https://www.kaggle.com/datasets/msambare/fer2013 |
-| 9 | MMI | Multi-view AU | Multi-view facial expression videos with AU labels | https://mmifacedb.eu/ |
-| 10 | JAFFE | Classic FER | Japanese Female Facial Expression dataset (7 emotions) | https://zenodo.org/record/3451524 |
-| 11 | Oulu-CASIA | Lighting FER | Facial expression dataset under varying illumination conditions | https://www.oulu.fi/en/projects/oulu-casia-facial-expression-database |
-| 12 | CASME II | Micro-expressions | Spontaneous micro-expression dataset with high frame rate | http://fu.psych.ac.cn/CASME/casme2-en.php |
-| 13 | SAMM | Micro-expressions | Spontaneous micro-expression database from diverse ethnicities | https://www.samm-dataset.com/ |
-| 14 | SMIC | Temporal Expressions | Spontaneous micro-expression dataset from multiple sources | https://www.cse.oulu.fi/CMV/Downloads/SMIC |
-| 15 | AFEW | Movie FER | Acted facial expressions in the wild from movie clips | https://cs.anu.edu.au/few/AFEW.html |
-| 16 | AFEW-VA | Continuous Emotion | AFEW with continuous valence-arousal annotations | https://ibug.doc.ic.ac.uk/resources/afew-va-database/ |
-| 17 | Bosphorus | 3D Face Analysis | 3D facial expression dataset with AU and emotion labels | https://bosphorus.ee.boun.edu.tr/ |
-| 18 | SEMAINE | Conversational Emotion AI | Conversational emotion analysis with socio-emotional labels | https://semaine-db.eu/ |
-| 19 | UNBC-McMaster | Medical FACS | Clinical pain dataset with expert FACS-coded AUs | https://www.pitt.edu/~emotion/um-spread.htm |
-| 20 | BioVid | Pain + Physiology | Pain expression dataset with physiological signals | https://www.iikt.ovgu.de/BioVid.html |
-| 21 | SenseEmotion | Multimodal Emotion AI | Multimodal pain and emotion dataset (face, voice, physiology) | https://zenodo.org/record/2535873 |
-| 22 | 300-W | Face Landmark Detection | Standard face landmark detection benchmark (IBUG + LFPW + AFW) | https://ibug.doc.ic.ac.uk/resources/300-W/ |
-| 23 | 300-LP | Face Landmark Detection | Large-Pose 300-W for profile face landmark detection | https://www.tensorflow.org/datasets/catalog/the300w_lp |
-| 24 | face-datasets | Curated Dataset List | Curated list of facial expression datasets on GitHub | https://github.com/blancaag/face-datasets |
-| 25 | AMFED | Mobile Emotion | Naturalistic mobile facial expressions recorded on smartphones | https://amfed.cs.dartmouth.edu/ |
-| 26 | RAVDESS Landmark | Landmark Tracking | OpenFace landmark tracking outputs for RAVDESS audio-visual dataset | https://www.kaggle.com/datasets/uwrfkaggler/ravdess-facial-landmark-tracking |
-| 27 | Murugappan Emotion | Emotion Recognition | Facial emotion recognition dataset for multi-class classification | https://www.kaggle.com/datasets/murugappanm/facial-emotion-recognition-dataset |
-| 28 | How You Feel 2.0 | Emotion Recognition | In-the-wild emotion recognition competition dataset | https://www.kaggle.com/competitions/how-you-feel-20/data |
-| 29 | Hugging-Rain-Man | Expression Dataset | Emotional expression dataset with video and annotation data | https://github.com/Jonas-DL/Hugging-Rain-Man |
-| 30 | EMOTE Data Sources | Curated Dataset List | Curated list of emotion research datasets and data sources | https://github.com/cosanlab/emote/blob/master/DATA_SOURCES.md |
-| 31 | OpenFace AU Wiki | AU Documentation | Official OpenFace documentation for Action Unit extraction | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Action-Units |
-| 32 | OpenFace Datasets | Dataset Guide | OpenFace-compatible dataset recommendations and guides | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Datasets |
+| Rank | Dataset | Category | Link |
+|---|---|---|---|
+| 1 | BP4D | AU Detection | https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html |
+| 2 | DISFA | AU Intensity | https://www.engr.du.edu/mmahoor/DISFA.htm |
+| 3 | Aff-Wild2 | Real-world AU + Emotion | https://ibug.doc.ic.ac.uk/resources/aff-wild2/ |
+| 4 | AffectNet | Emotion Recognition | http://mohammadmahoor.com/affectnet/ |
+| 5 | CK+ | FER + AU | https://www.jeffcohn.net/resources/ |
+| 6 | EmotioNet | Large-scale AU Detection | https://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/ |
+| 7 | RAF-DB | Real-world FER | http://www.whdeng.cn/RAF/model1.html |
+| 8 | FER2013 | CNN FER | https://www.kaggle.com/datasets/msambare/fer2013 |
+| 9 | MMI | Multi-view AU | https://mmifacedb.eu/ |
+| 10 | JAFFE | Classic FER | https://zenodo.org/record/3451524 |
+| 11 | Oulu-CASIA | Lighting FER | https://www.oulu.fi/en/projects/oulu-casia-facial-expression-database |
+| 12 | CASME II | Micro-expressions | http://fu.psych.ac.cn/CASME/casme2-en.php |
+| 13 | SAMM | Micro-expressions | https://www.samm-dataset.com/ |
+| 14 | SMIC | Temporal Expressions | https://www.cse.oulu.fi/CMV/Downloads/SMIC |
+| 15 | AFEW | Movie FER | https://cs.anu.edu.au/few/AFEW.html |
+| 16 | AFEW-VA | Continuous Emotion | https://ibug.doc.ic.ac.uk/resources/afew-va-database/ |
+| 17 | Bosphorus | 3D Face Analysis | https://bosphorus.ee.boun.edu.tr/ |
+| 18 | SEMAINE | Conversational Emotion AI | https://semaine-db.eu/ |
+| 19 | UNBC-McMaster | Medical FACS | https://www.pitt.edu/~emotion/um-spread.htm |
+| 20 | BioVid | Pain + Physiology | https://www.iikt.ovgu.de/BioVid.html |
+| 21 | SenseEmotion | Multimodal Emotion AI | https://zenodo.org/record/2535873 |
+| 22 | 300-W | Face Landmark Detection | https://ibug.doc.ic.ac.uk/resources/300-W/ |
+| 23 | 300-LP | Face Landmark Detection | https://www.tensorflow.org/datasets/catalog/the300w_lp |
+| 24 | face-datasets | Curated Dataset List | https://github.com/blancaag/face-datasets |
+| 25 | AMFED | Mobile Emotion | https://amfed.cs.dartmouth.edu/ |
+| 26 | RAVDESS Landmark | Landmark Tracking | https://www.kaggle.com/datasets/uwrfkaggler/ravdess-facial-landmark-tracking |
+| 27 | Murugappan Emotion | Emotion Recognition | https://www.kaggle.com/datasets/murugappanm/facial-emotion-recognition-dataset |
+| 28 | How You Feel 2.0 | Emotion Recognition | https://www.kaggle.com/competitions/how-you-feel-20/data |
+| 29 | Hugging-Rain-Man | Expression Dataset | https://github.com/Jonas-DL/Hugging-Rain-Man |
+| 30 | EMOTE Data Sources | Curated Dataset List | https://github.com/cosanlab/emote/blob/master/DATA_SOURCES.md |
+| 31 | OpenFace AU Wiki | AU Documentation | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Action-Units |
+| 32 | OpenFace Datasets | Dataset Guide | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Datasets |
