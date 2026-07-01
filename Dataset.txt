@@ -34,3 +34,40 @@
 | 30 | EMOTE Data Sources | Curated Dataset List | https://github.com/cosanlab/emote/blob/master/DATA_SOURCES.md |
 | 31 | OpenFace AU Wiki | AU Documentation | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Action-Units |
 | 32 | OpenFace Datasets | Dataset Guide | https://github.com/TadasBaltrusaitis/OpenFace/wiki/Datasets |
+
+# Unranked Datasets
+
+| Dataset | Category | Link |
+|---------|----------|------|
+| ASTFace_public | 3D Face Reconstruction | https://github.com/ActiveVisionLab/ASTFace |
+| FACES Database | Emotion Recognition | https://faces.mpdl.mpg.de/imeji/ |
+| KDEF  | Emotion Recognition | https://kdef.se/ |
+| RaFD  | Controlled FER | https://rafd.socsci.ru.nl/RaFD2/RaFD?p=main |
+| JAFFE | Classic FER | https://zenodo.org/record/3451524 |
+
+
+SAVEE,  http://kahlan.eps.surrey.ac.uk/savee/, 
+MMI     https://mmifacedb.eu/,                  https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression
+GEMEP   https://www.unige.ch/cisa/gemep.
+
+# Facial Expression Recognition (FER) Datasets
+
+| Dataset | Official Link | Available |
+|---------|--------------|-----------|
+| Multi-PIE | https://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html 
+| MMI Facial Expression Database | https://mmifacedb.eu/ |                                    [Kaggle - MMI](https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression) |
+| GEMEP-FERA | https://gemep-db.sspnet.eu/ |
+| SFEW (Static Facial Expressions in the Wild) | https://cs.anu.edu.au/few/AFEW.html | Limited |
+| CK+ (Extended Cohn-Kanade) | https://www.consortium.ri.cmu.edu/ckagree/ 
+| FER2013 | https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data | Yes |
+| JAFFE | https://www.kasrl.org/jaffe.html 
+| BU-3DFE | https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html 
+| CASME II | http://fu.psych.ac.cn/CASME/casme2-en.php | [Kaggle - CASME II](https://www.kaggle.com/datasets/muhammadzamancuiisb/casme2-preprocessed-v2) |
+| Oulu-CASIA | http://www.cse.oulu.fi/CMV/Downloads/Oulu-CASIA                               | [Kaggle - Oulu-CASIA](https://www.kaggle.com/datasets/cybersimar08/casia-face-dataset) |
+| AffectNet | https://mohammadmahoor.com/databases-codes/ |                                    [Kaggle - AffectNet YOLO](https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format), 
+                                                                                               [Kaggle - AffectNet](https://www.kaggle.com/datasets/mstjebashazida/affectnet) |
+| RAF-DB (Real-world Affective Faces Database) | https://www.whdeng.cn/RAF/model1.html |       [Kaggle - RAF-DB](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset) |
+| RaFD (Radboud Faces Database) | https://rafd.socsci.ru.nl/ 
+
+
+
