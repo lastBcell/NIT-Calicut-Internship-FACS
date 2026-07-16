@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\BalanedDataset_for_Openface\Surprise
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\BalanedDataset_for_Openface\Surprise
+Camera parameters:617.969,617.969,339,339
+Output csv:Surprise.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

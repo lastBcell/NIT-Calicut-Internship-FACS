@@ -1,0 +1,3 @@
+mmdatasdk
+numpy
+pandas

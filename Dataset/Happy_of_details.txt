@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\FER_dataset\dataset\Happy
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\FER_dataset\dataset\Happy
+Camera parameters:178.646,178.646,98,98
+Output csv:Happy.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

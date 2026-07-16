@@ -1,0 +1,10 @@
+Input:C:\vscode\NIT ERA\Dataset\Sad
+Input full path:C:\vscode\NIT ERA\Dataset\Sad
+Camera parameters:774.74,774.74,425,425
+Output csv:Sad.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
