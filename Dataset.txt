@@ -66,8 +66,9 @@ GEMEP   https://www.unige.ch/cisa/gemep.
 | Oulu-CASIA | http://www.cse.oulu.fi/CMV/Downloads/Oulu-CASIA                               | [Kaggle - Oulu-CASIA](https://www.kaggle.com/datasets/cybersimar08/casia-face-dataset) |
 | AffectNet | https://mohammadmahoor.com/databases-codes/ |                                    [Kaggle - AffectNet YOLO](https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format), 
                                                                                                [Kaggle - AffectNet](https://www.kaggle.com/datasets/mstjebashazida/affectnet) |
+                                                                                               |Kaggle - AffectNet]https://www.kaggle.com/code/arkhanzada/facial-emotions-classification-affectnet-dataset |
 | RAF-DB (Real-world Affective Faces Database) | https://www.whdeng.cn/RAF/model1.html |       [Kaggle - RAF-DB](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset) |
 | RaFD (Radboud Faces Database) | https://rafd.socsci.ru.nl/ 
 
-
-
+ConvNeXtTiny  https://www.kaggle.com/code/guanlintao/convnexttiny-emotion-recognition  https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset
+OAHEGA : EMOTION RECOGNITION DATASET  https://data.mendeley.com/datasets/5ck5zz6f2c/2

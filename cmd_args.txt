@@ -1,0 +1,3 @@
+./FeatureExtraction.exe -fdir "D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\HappyB_3_part_1" -out_dir "D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\Openface_out" -aus -quiet -of happy_static.csv 
+
+C:\vscode\NIT ERA\Openface\win_bin\OpenFace_2.2.0_win_x64
